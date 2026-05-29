@@ -1,0 +1,36 @@
+@import "tailwindcss";
+
+:root {
+  --space-xs:  8px;
+  --space-sm: 16px;
+  --space-md: 24px;
+  --space-lg: 32px;
+  --space-xl: 48px;
+}
+
+/* * {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+} */
+
+body {
+  font-family: 'Inter', system-ui, 'Segoe UI', Roboto, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background-color: #020617;
+  color: white;
+}
+
+/* Timer bar — width transitions via JS, color via Tailwind classes */
+.timer-bar {
+  transition: width 1s linear;
+}
+
+@keyframes pulse-glow {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(244, 63, 94, 0); }
+  50%       { box-shadow: 0 0 20px 6px rgba(244, 63, 94, 0.3); }
+}
+
+.animate-pulse-glow {
+  animation: pulse-glow 1.5s ease-in-out infinite;
+}

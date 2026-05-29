@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(nc -zv 10.0.1.117 5435)",
+      "Bash(ping -c 3 10.0.1.117)",
+      "Bash(nc -zv 77.37.40.248 5431)",
+      "Bash(git -C /Users/christianmaruccogonzalez/Documents/development/football-trivia init)",
+      "Bash(git -C /Users/christianmaruccogonzalez/Documents/development/football-trivia add .)",
+      "Bash(git -C /Users/christianmaruccogonzalez/Documents/development/football-trivia status --short)"
+    ]
+  }
+}

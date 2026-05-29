@@ -1,0 +1,1175 @@
+[
+  {
+    "id": 1,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿En qué país se jugó el Mundial 2014?",
+    "options": ["Argentina", "Brasil", "Alemania", "España"],
+    "correct": "Brasil"
+  },
+  {
+    "id": 2,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Cuántos goles se necesitan para ganar un partido de fútbol?",
+    "options": ["Más que el rival", "Exactamente 3", "Al menos 2", "Exactamente 1"],
+    "correct": "Más que el rival"
+  },
+  {
+    "id": 3,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué selección ganó el Mundial 2022 en Qatar?",
+    "options": ["Francia", "Brasil", "Argentina", "Alemania"],
+    "correct": "Argentina"
+  },
+  {
+    "id": 4,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Cuántos jugadores tiene cada equipo en la cancha?",
+    "options": ["9", "10", "11", "12"],
+    "correct": "11"
+  },
+  {
+    "id": 5,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué país organizó el Mundial 2018?",
+    "options": ["China", "Rusia", "Japón", "Alemania"],
+    "correct": "Rusia"
+  },
+  {
+    "id": 6,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Cada cuántos años se juega el Mundial de fútbol?",
+    "options": ["2 años", "3 años", "4 años", "5 años"],
+    "correct": "4 años"
+  },
+  {
+    "id": 7,
+    "category": "Jugadores",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿En qué club debutó Lionel Messi como profesional?",
+    "options": ["River Plate", "Barcelona", "Newell's Old Boys", "Inter Miami"],
+    "correct": "Barcelona"
+  },
+  {
+    "id": 8,
+    "category": "Jugadores",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿De qué país es Cristiano Ronaldo?",
+    "options": ["España", "Brasil", "Portugal", "Italia"],
+    "correct": "Portugal"
+  },
+  {
+    "id": 9,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué selección ganó el primer Mundial de fútbol en 1930?",
+    "options": ["Argentina", "Brasil", "Uruguay", "Italia"],
+    "correct": "Uruguay"
+  },
+  {
+    "id": 10,
+    "category": "Clubs",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Cómo se llama el estadio del FC Barcelona?",
+    "options": ["Bernabéu", "Anfield", "Camp Nou", "Etihad"],
+    "correct": "Camp Nou"
+  },
+  {
+    "id": 11,
+    "category": "Jugadores",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Quién es el máximo goleador en la historia de los Mundiales?",
+    "options": ["Pelé", "Ronaldo Nazário", "Miroslav Klose", "Gerd Müller"],
+    "correct": "Miroslav Klose"
+  },
+  {
+    "id": 12,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿En qué año Argentina ganó su primer Mundial de fútbol?",
+    "options": ["1974", "1978", "1982", "1986"],
+    "correct": "1978"
+  },
+  {
+    "id": 13,
+    "category": "Clubs",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Cuántas Champions League ha ganado el Real Madrid?",
+    "options": ["12", "13", "14", "15"],
+    "correct": "15"
+  },
+  {
+    "id": 14,
+    "category": "Jugadores",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Cuántos Balones de Oro ganó Lionel Messi hasta 2024?",
+    "options": ["6", "7", "8", "9"],
+    "correct": "8"
+  },
+  {
+    "id": 15,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué selección ha ganado más Mundiales en la historia?",
+    "options": ["Alemania", "Italia", "Argentina", "Brasil"],
+    "correct": "Brasil"
+  },
+  {
+    "id": 16,
+    "category": "Clubs",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿En qué año se fundó el FC Barcelona?",
+    "options": ["1895", "1899", "1902", "1910"],
+    "correct": "1899"
+  },
+  {
+    "id": 17,
+    "category": "Jugadores",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Quién marcó el famoso 'Gol del Siglo' en el Mundial 1986?",
+    "options": ["Pelé", "Zidane", "Diego Maradona", "Ronaldo"],
+    "correct": "Diego Maradona"
+  },
+  {
+    "id": 18,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Cuál fue el resultado de la final del Mundial 2014?",
+    "options": ["Alemania 1-0 Argentina", "Alemania 2-1 Argentina", "Argentina 1-0 Alemania", "Alemania 3-0 Argentina"],
+    "correct": "Alemania 1-0 Argentina"
+  },
+  {
+    "id": 19,
+    "category": "Clubs",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club inglés es conocido como 'The Reds'?",
+    "options": ["Arsenal", "Manchester United", "Liverpool", "Chelsea"],
+    "correct": "Liverpool"
+  },
+  {
+    "id": 20,
+    "category": "Jugadores",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿A qué club fue Neymar desde el Barcelona en 2017?",
+    "options": ["Manchester City", "PSG", "Chelsea", "Juventus"],
+    "correct": "PSG"
+  },
+  {
+    "id": 21,
+    "category": "Jugadores",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Cuántos goles marcó Miroslav Klose en Mundiales?",
+    "options": ["14", "15", "16", "17"],
+    "correct": "16"
+  },
+  {
+    "id": 22,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Quién fue el portero de Alemania que ganó el Mundial 2014?",
+    "options": ["Oliver Kahn", "Jens Lehmann", "Manuel Neuer", "René Adler"],
+    "correct": "Manuel Neuer"
+  },
+  {
+    "id": 23,
+    "category": "Clubs",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿En qué año el Inter de Milán ganó la Champions League bajo Mourinho?",
+    "options": ["2008", "2009", "2010", "2011"],
+    "correct": "2010"
+  },
+  {
+    "id": 24,
+    "category": "Jugadores",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Cuántos goles marcó Pelé a lo largo de su carrera profesional?",
+    "options": ["1000", "1079", "1281", "956"],
+    "correct": "1281"
+  },
+  {
+    "id": 25,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Quién fue el máximo goleador del Mundial 1998 en Francia?",
+    "options": ["Zinedine Zidane", "Davor Šuker", "Ronaldo", "Dennis Bergkamp"],
+    "correct": "Davor Šuker"
+  },
+  {
+    "id": 26,
+    "category": "Clubs",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Cuántas ligas consecutivas ganó el Juventus de Italia entre 2012 y 2020?",
+    "options": ["7", "8", "9", "10"],
+    "correct": "9"
+  },
+  {
+    "id": 27,
+    "category": "Jugadores",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Con qué club debutó Ronaldo Nazário como profesional?",
+    "options": ["Santos", "Cruzeiro", "Flamengo", "Internacional"],
+    "correct": "Cruzeiro"
+  },
+  {
+    "id": 28,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Cuántos mundiales disputó Diego Maradona como jugador?",
+    "options": ["2", "3", "4", "5"],
+    "correct": "4"
+  },
+  {
+    "id": 29,
+    "category": "Clubs",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Cuál fue el primer club en ganar la Copa de Europa (Champions League)?",
+    "options": ["AC Milan", "Benfica", "Real Madrid", "Barcelona"],
+    "correct": "Real Madrid"
+  },
+  {
+    "id": 30,
+    "category": "Jugadores",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿En qué año Zinedine Zidane fue expulsado en una final del Mundial por su cabezazo?",
+    "options": ["2002", "2004", "2006", "2008"],
+    "correct": "2006"
+  }
+  ,
+  {
+    "id": 31,
+    "category": "Futbol Argentino",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué club argentino es conocido como 'El Xeneize'?",
+    "options": ["River Plate", "Racing Club", "Boca Juniors", "San Lorenzo"],
+    "correct": "Boca Juniors"
+  },
+  {
+    "id": 32,
+    "category": "Futbol Argentino",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué colores identifican a River Plate?",
+    "options": ["Rojo y blanco", "Azul y amarillo", "Rojo y negro", "Celeste y blanco"],
+    "correct": "Rojo y blanco"
+  },
+  {
+    "id": 33,
+    "category": "Futbol Argentino",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Cuál es el clásico rival de Boca Juniors?",
+    "options": ["Independiente", "Racing", "River Plate", "San Lorenzo"],
+    "correct": "River Plate"
+  },
+  {
+    "id": 34,
+    "category": "Futbol Argentino",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Cómo se llama el estadio de Boca Juniors?",
+    "options": ["Monumental", "La Bombonera", "Libertadores de América", "Cilindro"],
+    "correct": "La Bombonera"
+  },
+  {
+    "id": 35,
+    "category": "Futbol Argentino",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Cómo se llama el estadio de River Plate?",
+    "options": ["La Bombonera", "José Amalfitani", "Monumental", "Nuevo Gasómetro"],
+    "correct": "Monumental"
+  },
+  {
+    "id": 36,
+    "category": "Futbol Argentino",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué club tiene como apodo 'La Academia'?",
+    "options": ["Independiente", "Racing Club", "Huracán", "Lanús"],
+    "correct": "Racing Club"
+  },
+  {
+    "id": 37,
+    "category": "Futbol Argentino",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué club es conocido como 'El Rojo'?",
+    "options": ["Independiente", "Argentinos Juniors", "River Plate", "Colón"],
+    "correct": "Independiente"
+  },
+  {
+    "id": 38,
+    "category": "Futbol Argentino",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿En qué ciudad se encuentra el estadio Monumental?",
+    "options": ["Rosario", "La Plata", "Buenos Aires", "Córdoba"],
+    "correct": "Buenos Aires"
+  },
+  {
+    "id": 39,
+    "category": "Futbol Argentino",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué club vio debutar a Diego Maradona?",
+    "options": ["Boca Juniors", "Argentinos Juniors", "Newell's", "River Plate"],
+    "correct": "Argentinos Juniors"
+  },
+  {
+    "id": 40,
+    "category": "Futbol Argentino",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿De qué ciudad es Rosario Central?",
+    "options": ["Santa Fe", "Rosario", "La Plata", "Mar del Plata"],
+    "correct": "Rosario"
+  },
+  {
+    "id": 41,
+    "category": "Futbol Argentino",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué equipo ganó la Copa Libertadores 2018?",
+    "options": ["Boca Juniors", "River Plate", "Flamengo", "Palmeiras"],
+    "correct": "River Plate"
+  },
+  {
+    "id": 42,
+    "category": "Futbol Argentino",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club argentino tiene más Copas Libertadores?",
+    "options": ["River Plate", "Boca Juniors", "Independiente", "Racing Club"],
+    "correct": "Independiente"
+  },
+  {
+    "id": 43,
+    "category": "Futbol Argentino",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Cuál es el clásico rosarino?",
+    "options": ["Central vs Colón", "Newell's vs Rosario Central", "Rosario Central vs Unión", "Newell's vs Colón"],
+    "correct": "Newell's vs Rosario Central"
+  },
+  {
+    "id": 44,
+    "category": "Futbol Argentino",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club ganó el Torneo Apertura 2012 de forma invicta?",
+    "options": ["Boca Juniors", "Vélez", "River Plate", "Arsenal"],
+    "correct": "Arsenal"
+  },
+  {
+    "id": 45,
+    "category": "Futbol Argentino",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Quién convirtió el gol decisivo para Argentina en la final de la Copa América 2021?",
+    "options": ["Messi", "Di María", "Lautaro Martínez", "Álvarez"],
+    "correct": "Di María"
+  },
+  {
+    "id": 46,
+    "category": "Futbol Argentino",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club es conocido como 'El Fortín'?",
+    "options": ["Estudiantes", "Vélez Sarsfield", "Banfield", "Lanús"],
+    "correct": "Vélez Sarsfield"
+  },
+  {
+    "id": 47,
+    "category": "Futbol Argentino",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club ganó la Copa Sudamericana 2013?",
+    "options": ["River Plate", "Lanús", "San Lorenzo", "Racing"],
+    "correct": "Lanús"
+  },
+  {
+    "id": 48,
+    "category": "Futbol Argentino",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club tiene como estadio el José Amalfitani?",
+    "options": ["Huracán", "Vélez Sarsfield", "Banfield", "Tigre"],
+    "correct": "Vélez Sarsfield"
+  },
+  {
+    "id": 49,
+    "category": "Futbol Argentino",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club argentino ganó la Libertadores 2014?",
+    "options": ["River Plate", "San Lorenzo", "Boca Juniors", "Estudiantes"],
+    "correct": "San Lorenzo"
+  },
+  {
+    "id": 50,
+    "category": "Futbol Argentino",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club es conocido como 'El Pincha'?",
+    "options": ["Estudiantes", "Gimnasia", "Banfield", "Lanús"],
+    "correct": "Estudiantes"
+  },
+  {
+    "id": 51,
+    "category": "Futbol Argentino",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿En qué año Independiente ganó su primera Copa Libertadores?",
+    "options": ["1964", "1965", "1967", "1970"],
+    "correct": "1964"
+  },
+  {
+    "id": 52,
+    "category": "Futbol Argentino",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Quién es el máximo goleador histórico de River Plate?",
+    "options": ["Francescoli", "Labruna", "Alonso", "Cavenaghi"],
+    "correct": "Labruna"
+  },
+  {
+    "id": 53,
+    "category": "Futbol Argentino",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué entrenador dirigió a Argentina en el Mundial 1978?",
+    "options": ["Bilardo", "Menotti", "Basile", "Passarella"],
+    "correct": "Menotti"
+  },
+  {
+    "id": 54,
+    "category": "Futbol Argentino",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué club argentino ganó la primera Copa Libertadores de su historia en 1968?",
+    "options": ["Estudiantes", "Racing", "Independiente", "Boca"],
+    "correct": "Estudiantes"
+  },
+  {
+    "id": 55,
+    "category": "Futbol Argentino",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Quién convirtió el gol de Argentina en la final del Mundial 1990?",
+    "options": ["Caniggia", "Burruchaga", "Monzón", "Ninguno"],
+    "correct": "Ninguno"
+  },
+  {
+    "id": 56,
+    "category": "Futbol Europeo",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿En qué país juega el Real Madrid?",
+    "options": ["Italia", "Francia", "España", "Portugal"],
+    "correct": "España"
+  },
+  {
+    "id": 57,
+    "category": "Futbol Europeo",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué club juega en el estadio Camp Nou?",
+    "options": ["Atlético Madrid", "Barcelona", "Valencia", "Sevilla"],
+    "correct": "Barcelona"
+  },
+  {
+    "id": 58,
+    "category": "Futbol Europeo",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿En qué país se disputa la Serie A?",
+    "options": ["España", "Alemania", "Francia", "Italia"],
+    "correct": "Italia"
+  },
+  {
+    "id": 59,
+    "category": "Futbol Europeo",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué club es conocido como 'Los Merengues'?",
+    "options": ["Barcelona", "Juventus", "Real Madrid", "PSG"],
+    "correct": "Real Madrid"
+  },
+  {
+    "id": 60,
+    "category": "Futbol Europeo",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿En qué ciudad juega el Paris Saint-Germain?",
+    "options": ["Marsella", "Lyon", "París", "Mónaco"],
+    "correct": "París"
+  },
+  {
+    "id": 61,
+    "category": "Futbol Europeo",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué club italiano tiene como apodo 'La Vecchia Signora'?",
+    "options": ["Inter", "Milan", "Roma", "Juventus"],
+    "correct": "Juventus"
+  },
+  {
+    "id": 62,
+    "category": "Futbol Europeo",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué equipo español juega en el estadio Santiago Bernabéu?",
+    "options": ["Sevilla", "Barcelona", "Atlético Madrid", "Real Madrid"],
+    "correct": "Real Madrid"
+  },
+  {
+    "id": 63,
+    "category": "Futbol Europeo",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué club francés tuvo a Kylian Mbappé como figura durante varios años?",
+    "options": ["Lyon", "Marsella", "PSG", "Lille"],
+    "correct": "PSG"
+  },
+  {
+    "id": 64,
+    "category": "Futbol Europeo",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Cómo se llama la máxima categoría del fútbol español?",
+    "options": ["Premier League", "Serie A", "La Liga", "Ligue 1"],
+    "correct": "La Liga"
+  },
+  {
+    "id": 65,
+    "category": "Futbol Europeo",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué club italiano viste tradicionalmente de negro y azul?",
+    "options": ["Milan", "Napoli", "Inter", "Roma"],
+    "correct": "Inter"
+  },
+  {
+    "id": 66,
+    "category": "Futbol Europeo",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club ganó la Champions League 2024?",
+    "options": ["Manchester City", "Real Madrid", "Inter", "PSG"],
+    "correct": "Real Madrid"
+  },
+  {
+    "id": 67,
+    "category": "Futbol Europeo",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Cuál es el clásico más importante de España?",
+    "options": ["Sevilla vs Betis", "Barcelona vs Real Madrid", "Valencia vs Villarreal", "Atlético vs Getafe"],
+    "correct": "Barcelona vs Real Madrid"
+  },
+  {
+    "id": 68,
+    "category": "Futbol Europeo",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club italiano juega en el estadio San Siro junto al Inter?",
+    "options": ["Juventus", "Napoli", "Roma", "Milan"],
+    "correct": "Milan"
+  },
+  {
+    "id": 69,
+    "category": "Futbol Europeo",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club ganó la primera Champions League de Lionel Messi?",
+    "options": ["PSG", "Barcelona", "Inter Miami", "Newell's"],
+    "correct": "Barcelona"
+  },
+  {
+    "id": 70,
+    "category": "Futbol Europeo",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué equipo francés ganó la Ligue 1 en numerosas ocasiones durante la era Mbappé?",
+    "options": ["Marsella", "Lyon", "PSG", "Lille"],
+    "correct": "PSG"
+  },
+  {
+    "id": 71,
+    "category": "Futbol Europeo",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿En qué club jugó Diego Maradona en Italia?",
+    "options": ["Milan", "Inter", "Napoli", "Roma"],
+    "correct": "Napoli"
+  },
+  {
+    "id": 72,
+    "category": "Futbol Europeo",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué jugador portugués fue figura histórica del Real Madrid?",
+    "options": ["Figo", "Cristiano Ronaldo", "Pepe", "Bernardo Silva"],
+    "correct": "Cristiano Ronaldo"
+  },
+  {
+    "id": 73,
+    "category": "Futbol Europeo",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Cuál es el apodo del Atlético de Madrid?",
+    "options": ["Los Leones", "Los Colchoneros", "Los Blancos", "Los Celtas"],
+    "correct": "Los Colchoneros"
+  },
+  {
+    "id": 74,
+    "category": "Futbol Europeo",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club español juega sus partidos en el Metropolitano?",
+    "options": ["Real Madrid", "Valencia", "Atlético Madrid", "Sevilla"],
+    "correct": "Atlético Madrid"
+  },
+  {
+    "id": 75,
+    "category": "Futbol Europeo",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué club italiano tiene más títulos de Serie A?",
+    "options": ["Inter", "Milan", "Roma", "Juventus"],
+    "correct": "Juventus"
+  },
+  {
+    "id": 76,
+    "category": "Futbol Europeo",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Contra qué equipo ganó el Barcelona la final de la Champions League 2011?",
+    "options": ["Chelsea", "Manchester United", "Inter", "Arsenal"],
+    "correct": "Manchester United"
+  },
+  {
+    "id": 77,
+    "category": "Futbol Europeo",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Quién era el entrenador del Real Madrid durante la histórica 'Décima' Champions?",
+    "options": ["Mourinho", "Ancelotti", "Zidane", "Benítez"],
+    "correct": "Ancelotti"
+  },
+  {
+    "id": 78,
+    "category": "Futbol Europeo",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué club eliminó al PSG en los octavos de final de la Champions 2022 con una remontada memorable?",
+    "options": ["Chelsea", "Manchester City", "Real Madrid", "Liverpool"],
+    "correct": "Real Madrid"
+  },
+  {
+    "id": 79,
+    "category": "Futbol Europeo",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué club ganó el triplete (Liga, Copa y Champions) en 2010 con José Mourinho?",
+    "options": ["Juventus", "Inter", "Milan", "Barcelona"],
+    "correct": "Inter"
+  },
+  {
+    "id": 80,
+    "category": "Futbol Europeo",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué delantero sueco fue figura del PSG antes de la llegada de Mbappé?",
+    "options": ["Henrik Larsson", "Alexander Isak", "Zlatan Ibrahimović", "Ljungberg"],
+    "correct": "Zlatan Ibrahimović"
+  },
+  {
+    "id": 81,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué país ganó el Mundial de 2010?",
+    "options": ["Alemania", "España", "Brasil", "Argentina"],
+    "correct": "España"
+  },
+  {
+    "id": 82,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué selección ganó el Mundial de 1998?",
+    "options": ["Brasil", "Italia", "Francia", "Alemania"],
+    "correct": "Francia"
+  },
+  {
+    "id": 83,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿En qué país se jugó el Mundial 2022?",
+    "options": ["Qatar", "Emiratos Árabes", "Arabia Saudita", "Egipto"],
+    "correct": "Qatar"
+  },
+  {
+    "id": 84,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Cuántas estrellas tiene Argentina tras ganar el Mundial 2022?",
+    "options": ["2", "3", "4", "5"],
+    "correct": "3"
+  },
+  {
+    "id": 85,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué selección ganó el Mundial de 1986?",
+    "options": ["Alemania", "Brasil", "Argentina", "Italia"],
+    "correct": "Argentina"
+  },
+  {
+    "id": 86,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Quién levantó la copa para Argentina en 2022?",
+    "options": ["Di María", "Messi", "Otamendi", "Dibu Martínez"],
+    "correct": "Messi"
+  },
+  {
+    "id": 87,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué selección ganó el Mundial 2018?",
+    "options": ["Croacia", "Francia", "Bélgica", "Inglaterra"],
+    "correct": "Francia"
+  },
+  {
+    "id": 88,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿En qué continente se disputó el Mundial 2010?",
+    "options": ["Europa", "Asia", "África", "América"],
+    "correct": "África"
+  },
+  {
+    "id": 89,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué selección perdió la final de Qatar 2022?",
+    "options": ["Croacia", "Brasil", "Francia", "Marruecos"],
+    "correct": "Francia"
+  },
+  {
+    "id": 90,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué arquero argentino fue elegido mejor arquero del Mundial 2022?",
+    "options": ["Romero", "Armani", "Dibu Martínez", "Caballero"],
+    "correct": "Dibu Martínez"
+  },
+  {
+    "id": 91,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Quién marcó el gol de la victoria en la final del Mundial 2010?",
+    "options": ["Villa", "Torres", "Iniesta", "Xavi"],
+    "correct": "Iniesta"
+  },
+  {
+    "id": 92,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué selección eliminó a Argentina en cuartos de final del Mundial 2006?",
+    "options": ["Brasil", "Italia", "Alemania", "Francia"],
+    "correct": "Alemania"
+  },
+  {
+    "id": 93,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Quién fue el máximo goleador del Mundial 2014?",
+    "options": ["Messi", "Müller", "James Rodríguez", "Neymar"],
+    "correct": "James Rodríguez"
+  },
+  {
+    "id": 94,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué selección sorprendió llegando a semifinales en Qatar 2022?",
+    "options": ["Japón", "Marruecos", "Australia", "Suiza"],
+    "correct": "Marruecos"
+  },
+  {
+    "id": 95,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué país organizó el Mundial 2006?",
+    "options": ["Francia", "Alemania", "Italia", "España"],
+    "correct": "Alemania"
+  },
+  {
+    "id": 96,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué jugador recibió el Balón de Oro del Mundial 2014?",
+    "options": ["Messi", "Müller", "Robben", "James"],
+    "correct": "Messi"
+  },
+  {
+    "id": 97,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué selección ganó el Mundial de 2002?",
+    "options": ["Alemania", "Brasil", "Italia", "Francia"],
+    "correct": "Brasil"
+  },
+  {
+    "id": 98,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Quién anotó el gol para Alemania en la final de 2014?",
+    "options": ["Klose", "Özil", "Müller", "Götze"],
+    "correct": "Götze"
+  },
+  {
+    "id": 99,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué selección ganó el Mundial de Italia 1990?",
+    "options": ["Argentina", "Alemania", "Brasil", "Italia"],
+    "correct": "Alemania"
+  },
+  {
+    "id": 100,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Quién fue el capitán de Argentina en Qatar 2022?",
+    "options": ["Otamendi", "Messi", "Di María", "De Paul"],
+    "correct": "Messi"
+  },
+  {
+    "id": 101,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué selección ganó el Mundial de 1954?",
+    "options": ["Hungría", "Alemania Occidental", "Brasil", "Uruguay"],
+    "correct": "Alemania Occidental"
+  },
+  {
+    "id": 102,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Quién fue el máximo goleador del Mundial 2002?",
+    "options": ["Ronaldo", "Rivaldo", "Klose", "Ronaldinho"],
+    "correct": "Ronaldo"
+  },
+  {
+    "id": 103,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué selección ganó el Mundial de 1966?",
+    "options": ["Alemania", "Brasil", "Inglaterra", "Portugal"],
+    "correct": "Inglaterra"
+  },
+  {
+    "id": 104,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Quién marcó el famoso gol con la 'Mano de Dios'?",
+    "options": ["Caniggia", "Maradona", "Pelé", "Passarella"],
+    "correct": "Maradona"
+  },
+  {
+    "id": 105,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué selección ganó el Mundial de 1974?",
+    "options": ["Holanda", "Brasil", "Alemania Occidental", "Argentina"],
+    "correct": "Alemania Occidental"
+  },
+  {
+    "id": 106,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Quién fue el entrenador de Argentina campeón en 1986?",
+    "options": ["Menotti", "Bilardo", "Basile", "Passarella"],
+    "correct": "Bilardo"
+  },
+  {
+    "id": 107,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué selección perdió la final del Mundial 1958?",
+    "options": ["Suecia", "Brasil", "Francia", "Alemania"],
+    "correct": "Suecia"
+  },
+  {
+    "id": 108,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Quién fue el máximo goleador del Mundial 1978?",
+    "options": ["Kempes", "Luque", "Rensenbrink", "Zico"],
+    "correct": "Kempes"
+  },
+  {
+    "id": 109,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué selección ganó el Mundial de 1938?",
+    "options": ["Italia", "Hungría", "Brasil", "Checoslovaquia"],
+    "correct": "Italia"
+  },
+  {
+    "id": 110,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Quién convirtió dos goles para Francia en la final de Qatar 2022?",
+    "options": ["Giroud", "Griezmann", "Mbappé", "Dembélé"],
+    "correct": "Mbappé"
+  },
+  {
+    "id": 111,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué selección ganó el Mundial de 1994?",
+    "options": ["Brasil", "Italia", "Argentina", "Alemania"],
+    "correct": "Brasil"
+  },
+  {
+    "id": 112,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Quién fue la figura de Argentina en el Mundial 1986?",
+    "options": ["Batistuta", "Maradona", "Passarella", "Valdano"],
+    "correct": "Maradona"
+  },
+  {
+    "id": 113,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué selección ganó el Mundial de 1958?",
+    "options": ["Suecia", "Brasil", "Alemania", "Uruguay"],
+    "correct": "Brasil"
+  },
+  {
+    "id": 114,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué país organizará el Mundial 2026 junto a Estados Unidos?",
+    "options": ["México y Canadá", "Brasil y Argentina", "España y Portugal", "Chile y Perú"],
+    "correct": "México y Canadá"
+  },
+  {
+    "id": 115,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué selección fue conocida como la 'Naranja Mecánica'?",
+    "options": ["Alemania", "Holanda", "Bélgica", "Dinamarca"],
+    "correct": "Holanda"
+  },
+  {
+    "id": 116,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Quién ganó el Mundial de 1978?",
+    "options": ["Brasil", "Argentina", "Italia", "Alemania"],
+    "correct": "Argentina"
+  },
+  {
+    "id": 117,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué selección ganó el Mundial de 2006?",
+    "options": ["Francia", "Italia", "Alemania", "Brasil"],
+    "correct": "Italia"
+  },
+  {
+    "id": 118,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué selección ganó el Mundial de 1950?",
+    "options": ["Brasil", "Uruguay", "Argentina", "Italia"],
+    "correct": "Uruguay"
+  },
+  {
+    "id": 119,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué jugador marcó el gol del triunfo de España en la final 2010?",
+    "options": ["Villa", "Iniesta", "Torres", "Xavi"],
+    "correct": "Iniesta"
+  },
+  {
+    "id": 120,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Contra qué selección jugó Argentina la final del Mundial 1986?",
+    "options": ["Brasil", "Alemania", "Italia", "Francia"],
+    "correct": "Alemania"
+  },
+  {
+    "id": 121,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué selección ganó el Mundial de 1970?",
+    "options": ["Brasil", "Italia", "Alemania", "Uruguay"],
+    "correct": "Brasil"
+  },
+  {
+    "id": 122,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué selección eliminó a Brasil en cuartos de final del Mundial 2022?",
+    "options": ["Croacia", "Argentina", "Francia", "Marruecos"],
+    "correct": "Croacia"
+  },
+  {
+    "id": 123,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Quién fue el capitán argentino campeón en 1978?",
+    "options": ["Passarella", "Ardiles", "Kempes", "Fillol"],
+    "correct": "Passarella"
+  },
+  {
+    "id": 124,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué país ganó más Mundiales hasta la fecha?",
+    "options": ["Argentina", "Italia", "Alemania", "Brasil"],
+    "correct": "Brasil"
+  },
+  {
+    "id": 125,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué selección ganó el Mundial de 1982?",
+    "options": ["Brasil", "Italia", "Alemania", "Argentina"],
+    "correct": "Italia"
+  },
+  {
+    "id": 126,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Quién fue el goleador histórico de los Mundiales antes de Klose?",
+    "options": ["Pelé", "Ronaldo", "Gerd Müller", "Fontaine"],
+    "correct": "Ronaldo"
+  },
+  {
+    "id": 127,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué selección ganó el Mundial de 1962?",
+    "options": ["Brasil", "Chile", "Checoslovaquia", "Italia"],
+    "correct": "Brasil"
+  },
+  {
+    "id": 128,
+    "category": "Mundiales",
+    "difficulty": "medium",
+    "points": 200,
+    "question": "¿Qué selección ganó el Mundial de 1934?",
+    "options": ["Italia", "Checoslovaquia", "Argentina", "Uruguay"],
+    "correct": "Italia"
+  },
+  {
+    "id": 129,
+    "category": "Mundiales",
+    "difficulty": "hard",
+    "points": 300,
+    "question": "¿Qué jugador francés ganó el Balón de Oro del Mundial 2006?",
+    "options": ["Henry", "Zidane", "Vieira", "Ribéry"],
+    "correct": "Zidane"
+  },
+  {
+    "id": 130,
+    "category": "Mundiales",
+    "difficulty": "easy",
+    "points": 100,
+    "question": "¿Qué selección ganó el Mundial de 1930?",
+    "options": ["Argentina", "Uruguay", "Brasil", "Italia"],
+    "correct": "Uruguay"
+  }
+]
+
+
