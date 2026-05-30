@@ -1,4 +1,4 @@
-export const GAME_DURATION_SECONDS = 300
+export const GAME_DURATION_SECONDS = 180
 
 export const QUESTION_TIME_SECONDS = 30
 
