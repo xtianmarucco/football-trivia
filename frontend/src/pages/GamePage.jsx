@@ -11,6 +11,7 @@ import ScoreDisplay from '../components/ScoreDisplay'
 import QuestionCard from '../components/QuestionCard'
 import AnswerOptions from '../components/AnswerOptions'
 import { GAME_DURATION_SECONDS, QUESTION_TIME_SECONDS, SPEED_BONUS_MAX } from '../utils/constants'
+import { useUrgencySound } from '../hooks/useUrgencySound'
 
 export default function GamePage() {
   const {
@@ -43,6 +44,7 @@ export default function GamePage() {
     endGame()
     navigate('/gameover')
   })
+  useUrgencySound(timeLeft)
 
   function handleAnswer(option) {
     if (selected) return
