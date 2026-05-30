@@ -94,8 +94,8 @@
     "category": "Jugadores",
     "difficulty": "medium",
     "points": 200,
-    "question": "¿Quién es el máximo goleador en la historia de los Mundiales?",
-    "options": ["Pelé", "Ronaldo Nazário", "Miroslav Klose", "Gerd Müller"],
+    "question": "¿Quién es el jugador que más goles marcó en la historia de los Mundiales?",
+    "options": ["Pelé", "Ronaldo", "Miroslav Klose", "Maradona"],
     "correct": "Miroslav Klose"
   },
   {
@@ -184,7 +184,7 @@
     "category": "Jugadores",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Cuántos goles marcó Miroslav Klose en Mundiales?",
+    "question": "¿Cuántos goles marcó Miroslav Klose en todos los Mundiales que jugó?",
     "options": ["14", "15", "16", "17"],
     "correct": "16"
   },
@@ -193,7 +193,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Quién fue el portero de Alemania que ganó el Mundial 2014?",
+    "question": "¿Quién fue el arquero de Alemania que ganó el Mundial 2014?",
     "options": ["Oliver Kahn", "Jens Lehmann", "Manuel Neuer", "René Adler"],
     "correct": "Manuel Neuer"
   },
@@ -202,7 +202,7 @@
     "category": "Clubs",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿En qué año el Inter de Milán ganó la Champions League bajo Mourinho?",
+    "question": "¿En qué año el Inter de Milán ganó la Champions League con José Mourinho como técnico?",
     "options": ["2008", "2009", "2010", "2011"],
     "correct": "2010"
   },
@@ -211,16 +211,16 @@
     "category": "Jugadores",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Cuántos goles marcó Pelé a lo largo de su carrera profesional?",
-    "options": ["1000", "1079", "1281", "956"],
-    "correct": "1281"
+    "question": "¿Pelé marcó más de 1000 goles en su carrera? ¿Verdadero o falso?",
+    "options": ["Verdadero, marcó más de 1000", "Falso, marcó menos de 500", "Falso, marcó exactamente 500", "Verdadero, marcó exactamente 1000"],
+    "correct": "Verdadero, marcó más de 1000"
   },
   {
     "id": 25,
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Quién fue el máximo goleador del Mundial 1998 en Francia?",
+    "question": "¿Quién fue el jugador que más goles hizo en el Mundial 1998 de Francia?",
     "options": ["Zinedine Zidane", "Davor Šuker", "Ronaldo", "Dennis Bergkamp"],
     "correct": "Davor Šuker"
   },
@@ -229,7 +229,7 @@
     "category": "Clubs",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Cuántas ligas consecutivas ganó el Juventus de Italia entre 2012 y 2020?",
+    "question": "¿Cuántas ligas seguidas ganó la Juventus de Italia entre 2012 y 2020?",
     "options": ["7", "8", "9", "10"],
     "correct": "9"
   },
@@ -238,7 +238,7 @@
     "category": "Jugadores",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Con qué club debutó Ronaldo Nazário como profesional?",
+    "question": "¿En qué club de Brasil comenzó su carrera el famoso Ronaldo Nazário?",
     "options": ["Santos", "Cruzeiro", "Flamengo", "Internacional"],
     "correct": "Cruzeiro"
   },
@@ -247,7 +247,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Cuántos mundiales disputó Diego Maradona como jugador?",
+    "question": "¿En cuántos Mundiales jugó Diego Maradona a lo largo de su carrera?",
     "options": ["2", "3", "4", "5"],
     "correct": "4"
   },
@@ -256,7 +256,7 @@
     "category": "Clubs",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Cuál fue el primer club en ganar la Copa de Europa (Champions League)?",
+    "question": "¿Qué club ganó el primer torneo de Champions League (antes llamado Copa de Europa) de la historia?",
     "options": ["AC Milan", "Benfica", "Real Madrid", "Barcelona"],
     "correct": "Real Madrid"
   },
@@ -265,11 +265,10 @@
     "category": "Jugadores",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿En qué año Zinedine Zidane fue expulsado en una final del Mundial por su cabezazo?",
+    "question": "¿En qué año Zinedine Zidane fue expulsado en una final del Mundial por dar un cabezazo?",
     "options": ["2002", "2004", "2006", "2008"],
     "correct": "2006"
-  }
-  ,
+  },
   {
     "id": 31,
     "category": "Futbol Argentino",
@@ -455,9 +454,9 @@
     "category": "Futbol Argentino",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿En qué año Independiente ganó su primera Copa Libertadores?",
-    "options": ["1964", "1965", "1967", "1970"],
-    "correct": "1964"
+    "question": "¿En qué década ganó Independiente su primera Copa Libertadores?",
+    "options": ["1950s", "1960s", "1970s", "1980s"],
+    "correct": "1960s"
   },
   {
     "id": 52,
@@ -473,7 +472,7 @@
     "category": "Futbol Argentino",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué entrenador dirigió a Argentina en el Mundial 1978?",
+    "question": "¿Qué entrenador llevó a Argentina a ganar el Mundial 1978?",
     "options": ["Bilardo", "Menotti", "Basile", "Passarella"],
     "correct": "Menotti"
   },
@@ -482,7 +481,7 @@
     "category": "Futbol Argentino",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué club argentino ganó la primera Copa Libertadores de su historia en 1968?",
+    "question": "¿Qué club argentino ganó su primera Copa Libertadores en 1968?",
     "options": ["Estudiantes", "Racing", "Independiente", "Boca"],
     "correct": "Estudiantes"
   },
@@ -491,9 +490,9 @@
     "category": "Futbol Argentino",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Quién convirtió el gol de Argentina en la final del Mundial 1990?",
-    "options": ["Caniggia", "Burruchaga", "Monzón", "Ninguno"],
-    "correct": "Ninguno"
+    "question": "¿Cuántos goles hizo Argentina en la final del Mundial 1990?",
+    "options": ["1", "2", "0", "3"],
+    "correct": "0"
   },
   {
     "id": 56,
@@ -608,7 +607,7 @@
     "category": "Futbol Europeo",
     "difficulty": "medium",
     "points": 200,
-    "question": "¿Qué club italiano juega en el estadio San Siro junto al Inter?",
+    "question": "¿Qué club italiano comparte el estadio San Siro con el Inter?",
     "options": ["Juventus", "Napoli", "Roma", "Milan"],
     "correct": "Milan"
   },
@@ -617,7 +616,7 @@
     "category": "Futbol Europeo",
     "difficulty": "medium",
     "points": 200,
-    "question": "¿Qué club ganó la primera Champions League de Lionel Messi?",
+    "question": "¿Con qué club ganó Lionel Messi su primera Champions League?",
     "options": ["PSG", "Barcelona", "Inter Miami", "Newell's"],
     "correct": "Barcelona"
   },
@@ -626,7 +625,7 @@
     "category": "Futbol Europeo",
     "difficulty": "medium",
     "points": 200,
-    "question": "¿Qué equipo francés ganó la Ligue 1 en numerosas ocasiones durante la era Mbappé?",
+    "question": "¿Qué equipo francés dominó la Ligue 1 durante la época de Mbappé?",
     "options": ["Marsella", "Lyon", "PSG", "Lille"],
     "correct": "PSG"
   },
@@ -635,7 +634,7 @@
     "category": "Futbol Europeo",
     "difficulty": "medium",
     "points": 200,
-    "question": "¿En qué club jugó Diego Maradona en Italia?",
+    "question": "¿En qué club italiano jugó Diego Maradona?",
     "options": ["Milan", "Inter", "Napoli", "Roma"],
     "correct": "Napoli"
   },
@@ -662,7 +661,7 @@
     "category": "Futbol Europeo",
     "difficulty": "medium",
     "points": 200,
-    "question": "¿Qué club español juega sus partidos en el Metropolitano?",
+    "question": "¿Qué club español juega sus partidos en el estadio Metropolitano?",
     "options": ["Real Madrid", "Valencia", "Atlético Madrid", "Sevilla"],
     "correct": "Atlético Madrid"
   },
@@ -680,8 +679,8 @@
     "category": "Futbol Europeo",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Contra qué equipo ganó el Barcelona la final de la Champions League 2011?",
-    "options": ["Chelsea", "Manchester United", "Inter", "Arsenal"],
+    "question": "¿Contra qué equipo inglés ganó el Barcelona la final de la Champions League 2011?",
+    "options": ["Chelsea", "Manchester United", "Liverpool", "Arsenal"],
     "correct": "Manchester United"
   },
   {
@@ -689,7 +688,7 @@
     "category": "Futbol Europeo",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Quién era el entrenador del Real Madrid durante la histórica 'Décima' Champions?",
+    "question": "¿Quién entrenaba al Real Madrid cuando ganó su Champions número 10, llamada 'La Décima'?",
     "options": ["Mourinho", "Ancelotti", "Zidane", "Benítez"],
     "correct": "Ancelotti"
   },
@@ -698,7 +697,7 @@
     "category": "Futbol Europeo",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué club eliminó al PSG en los octavos de final de la Champions 2022 con una remontada memorable?",
+    "question": "¿Qué club eliminó al PSG con una gran remontada en la Champions League 2022?",
     "options": ["Chelsea", "Manchester City", "Real Madrid", "Liverpool"],
     "correct": "Real Madrid"
   },
@@ -707,7 +706,7 @@
     "category": "Futbol Europeo",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué club ganó el triplete (Liga, Copa y Champions) en 2010 con José Mourinho?",
+    "question": "¿Qué club ganó Liga, Copa y Champions en la misma temporada en 2010 con Mourinho?",
     "options": ["Juventus", "Inter", "Milan", "Barcelona"],
     "correct": "Inter"
   },
@@ -716,7 +715,7 @@
     "category": "Futbol Europeo",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué delantero sueco fue figura del PSG antes de la llegada de Mbappé?",
+    "question": "¿Qué delantero sueco fue la gran estrella del PSG antes de que llegara Mbappé?",
     "options": ["Henrik Larsson", "Alexander Isak", "Zlatan Ibrahimović", "Ljungberg"],
     "correct": "Zlatan Ibrahimović"
   },
@@ -905,7 +904,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué selección ganó el Mundial de 1954?",
+    "question": "¿Qué selección ganó el Mundial de 1954 en Suiza?",
     "options": ["Hungría", "Alemania Occidental", "Brasil", "Uruguay"],
     "correct": "Alemania Occidental"
   },
@@ -914,7 +913,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Quién fue el máximo goleador del Mundial 2002?",
+    "question": "¿Quién fue el goleador del Mundial 2002 jugado en Japón y Corea?",
     "options": ["Ronaldo", "Rivaldo", "Klose", "Ronaldinho"],
     "correct": "Ronaldo"
   },
@@ -923,7 +922,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué selección ganó el Mundial de 1966?",
+    "question": "¿Qué país ganó el único Mundial que se jugó en Inglaterra, en 1966?",
     "options": ["Alemania", "Brasil", "Inglaterra", "Portugal"],
     "correct": "Inglaterra"
   },
@@ -932,7 +931,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Quién marcó el famoso gol con la 'Mano de Dios'?",
+    "question": "¿Quién marcó el famoso gol con la 'Mano de Dios' en el Mundial 1986?",
     "options": ["Caniggia", "Maradona", "Pelé", "Passarella"],
     "correct": "Maradona"
   },
@@ -941,7 +940,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué selección ganó el Mundial de 1974?",
+    "question": "¿Qué selección ganó el Mundial de 1974 jugado en Alemania?",
     "options": ["Holanda", "Brasil", "Alemania Occidental", "Argentina"],
     "correct": "Alemania Occidental"
   },
@@ -950,7 +949,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Quién fue el entrenador de Argentina campeón en 1986?",
+    "question": "¿Qué entrenador dirigió a Argentina cuando ganó el Mundial 1986?",
     "options": ["Menotti", "Bilardo", "Basile", "Passarella"],
     "correct": "Bilardo"
   },
@@ -959,8 +958,8 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué selección perdió la final del Mundial 1958?",
-    "options": ["Suecia", "Brasil", "Francia", "Alemania"],
+    "question": "¿Contra qué selección jugó Brasil la final del Mundial 1958?",
+    "options": ["Suecia", "Francia", "Alemania", "Argentina"],
     "correct": "Suecia"
   },
   {
@@ -968,8 +967,8 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Quién fue el máximo goleador del Mundial 1978?",
-    "options": ["Kempes", "Luque", "Rensenbrink", "Zico"],
+    "question": "¿Qué jugador argentino fue el goleador del Mundial 1978?",
+    "options": ["Kempes", "Luque", "Passarella", "Ardiles"],
     "correct": "Kempes"
   },
   {
@@ -977,8 +976,8 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué selección ganó el Mundial de 1938?",
-    "options": ["Italia", "Hungría", "Brasil", "Checoslovaquia"],
+    "question": "¿Qué selección europea ganó el Mundial de 1938?",
+    "options": ["Italia", "Hungría", "Francia", "Checoslovaquia"],
     "correct": "Italia"
   },
   {
@@ -986,9 +985,9 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Quién convirtió dos goles para Francia en la final de Qatar 2022?",
-    "options": ["Giroud", "Griezmann", "Mbappé", "Dembélé"],
-    "correct": "Mbappé"
+    "question": "¿Cuántos goles marcó Mbappé en la final de Qatar 2022?",
+    "options": ["1", "2", "3", "4"],
+    "correct": "3"
   },
   {
     "id": 111,
@@ -1031,9 +1030,9 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué selección fue conocida como la 'Naranja Mecánica'?",
-    "options": ["Alemania", "Holanda", "Bélgica", "Dinamarca"],
-    "correct": "Holanda"
+    "question": "¿Cómo se apodaba a la selección de Holanda de los años 70, famosa por su estilo de juego?",
+    "options": ["La Furia Roja", "La Naranja Mecánica", "La Celeste", "Los Leones"],
+    "correct": "La Naranja Mecánica"
   },
   {
     "id": 116,
@@ -1058,7 +1057,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué selección ganó el Mundial de 1950?",
+    "question": "¿Qué selección venció a Brasil en su propio estadio en la final del Mundial 1950?",
     "options": ["Brasil", "Uruguay", "Argentina", "Italia"],
     "correct": "Uruguay"
   },
@@ -1076,7 +1075,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Contra qué selección jugó Argentina la final del Mundial 1986?",
+    "question": "¿Contra qué selección jugó Argentina la gran final del Mundial 1986?",
     "options": ["Brasil", "Alemania", "Italia", "Francia"],
     "correct": "Alemania"
   },
@@ -1103,7 +1102,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Quién fue el capitán argentino campeón en 1978?",
+    "question": "¿Quién fue el capitán de Argentina cuando ganaron el Mundial 1978?",
     "options": ["Passarella", "Ardiles", "Kempes", "Fillol"],
     "correct": "Passarella"
   },
@@ -1130,7 +1129,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Quién fue el goleador histórico de los Mundiales antes de Klose?",
+    "question": "¿Quién tenía el récord de goles en Mundiales antes de que Miroslav Klose lo superara?",
     "options": ["Pelé", "Ronaldo", "Gerd Müller", "Fontaine"],
     "correct": "Ronaldo"
   },
@@ -1157,7 +1156,7 @@
     "category": "Mundiales",
     "difficulty": "hard",
     "points": 300,
-    "question": "¿Qué jugador francés ganó el Balón de Oro del Mundial 2006?",
+    "question": "¿Qué jugador francés ganó el premio al mejor jugador del Mundial 2006?",
     "options": ["Henry", "Zidane", "Vieira", "Ribéry"],
     "correct": "Zidane"
   },
@@ -1166,10 +1165,8 @@
     "category": "Mundiales",
     "difficulty": "easy",
     "points": 100,
-    "question": "¿Qué selección ganó el Mundial de 1930?",
+    "question": "¿Qué selección ganó el primer Mundial de la historia en 1930?",
     "options": ["Argentina", "Uruguay", "Brasil", "Italia"],
     "correct": "Uruguay"
   }
 ]
-
-
