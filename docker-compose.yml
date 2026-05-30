@@ -25,14 +25,22 @@ services:
       PORT: 3001
       NODE_ENV: production
       CORS_ORIGIN: ${CORS_ORIGIN:-http://localhost}
+    networks:
+      - default
 
   frontend:
     build: ./frontend
     restart: unless-stopped
     depends_on:
       - backend
-    ports:
-      - "${PORT:-80}:80"
+    networks:
+      - default
+      - dokploy-network
 
 volumes:
   postgres_data:
+
+networks:
+  default:
+  dokploy-network:
+    external: true
