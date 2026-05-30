@@ -5,7 +5,7 @@ import scoreRoutes from './routes/scoreRoutes.js'
 import { errorMiddleware } from './middlewares/errorMiddleware.js'
 
 const app = express()
-const PORT = process.env.PORT || 3001
+const PORT = process.env.API_PORT || 3001
 
 app.use(cors({ origin: process.env.CORS_ORIGIN || '*' }))
 app.use(express.json())
