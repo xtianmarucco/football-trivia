@@ -24,7 +24,7 @@ services:
       DATABASE_URL: postgresql://${POSTGRES_USER:-postgres}:${POSTGRES_PASSWORD:-postgres}@postgres:5432/${POSTGRES_DB:-football_trivia}
       API_PORT: 3001
       NODE_ENV: production
-      CORS_ORIGIN: http://trivia-mundial-grido-frontend-9ngauc-c6c81b-77-37-40-248.traefik.me
+      CORS_ORIGIN: ${CORS_ORIGIN:-*}
     networks:
       - default
 
